@@ -8,6 +8,7 @@ public class consecutive {
         System.out.println(consecutive(a));
 
     }
+
     public static boolean consecutive(int ar[]){
 
         int minimum = Integer.MAX_VALUE;

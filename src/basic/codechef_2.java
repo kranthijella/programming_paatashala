@@ -1,6 +1,6 @@
 package basic;/* package codechef; // don't place package name! */
 
-import com.sun.org.apache.xerces.internal.impl.xs.SchemaNamespaceSupport;
+//import com.sun.org.apache.xerces.internal.impl.xs.SchemaNamespaceSupport;
 
 import java.util.*;
 import java.lang.*;
